@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhshch2002&count_private=true&show_icons=true&theme=algolia" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhshch2002&layout=compact&theme=algolia" />
   </a>
